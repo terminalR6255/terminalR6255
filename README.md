@@ -20,22 +20,7 @@
 
 ## 👨‍💻 About Me
 
-```python
-class Ahmed:
-    def __init__(self):
-        self.loves       = ["Python", "AI", "Math", "Robotics"]
-        self.learning    = ["Machine Learning", "Deep Learning", "Statistics", "Calculus"]
-        self.goal        = "Build AI that matters, and work on it globally 🌏"
-        self.mindset     = "Everything big starts from zero"
-        self.status      = "Learning in public, shipping consistently"
 
-    def daily_routine(self):
-        while True:
-            self.learn()
-            self.build()
-            self.break_things()
-            self.improve()
-```
 
 <table>
 <tr>
